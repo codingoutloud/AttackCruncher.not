@@ -1,6 +1,6 @@
 # AttackCruncher
 
-Crunches the attacker source details.   
+The Attach Cruncher tool crunches the raw attacker source details into a more understandable rolled-up summary.
 
 ## Input 
 
